@@ -7,7 +7,8 @@ This project explores Spotify's Top 50 - Global playlist using data engineering 
 
 
 
-**Tech Stack**
+# Tech Stack  
+
 The project was built using the following tools and technologies:
 
 ![Pipeline Design](https://github.com/user-attachments/assets/dfb43287-9016-440b-a2fe-bf5f9618d12f)  
