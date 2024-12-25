@@ -1,14 +1,17 @@
 # 🎵 Spotify Data Engineering with AWS
-**Project Overview**
+**Project Overview**  
+
 This project explores Spotify's Top 50 - Global playlist using data engineering practices. The primary goal was to extract, transform, and load (ETL) playlist data from Spotify's API and analyze it in the cloud using AWS. With trending songs dominated by Christmas classics, this project offered a fun opportunity to experiment with AWS services while showcasing the timelessness of these hits.
 
-![Top-50](https://github.com/user-attachments/assets/ad02c9e5-e5d9-4d37-ba15-5e638d0273a7)
+![Top-50](https://github.com/user-attachments/assets/ad02c9e5-e5d9-4d37-ba15-5e638d0273a7)  
+
 
 
 **Tech Stack**
 The project was built using the following tools and technologies:
 
-![Pipeline Design](https://github.com/user-attachments/assets/dfb43287-9016-440b-a2fe-bf5f9618d12f)
+![Pipeline Design](https://github.com/user-attachments/assets/dfb43287-9016-440b-a2fe-bf5f9618d12f)  
+
 
 **Extraction Stage**
 Spotify API: Scraped data from the playlist.
