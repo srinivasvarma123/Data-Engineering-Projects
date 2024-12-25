@@ -30,7 +30,7 @@ AWS Glue Crawler: Inferred schema for structured data.
 AWS Glue Data Catalog: Managed metadata for querying.  
 Amazon Athena: Queried and analyzed transformed data.
 
-**Features**  
+## Features 
 Automated Data Pipelines: Hourly automation of data extraction using AWS CloudWatch and Lambda.  
 Data Transformation: Handled complex JSON structures from Spotify's API, converting them into clean CSVs for analysis.  
 Cloud Analysis: Used AWS Glue and Athena for querying the data directly in the cloud.  
